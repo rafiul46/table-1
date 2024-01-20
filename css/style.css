@@ -1,0 +1,209 @@
+td{
+
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    height: 35px;
+    width: 35px;
+    background-color: #ea967c;
+    color: #354b49;
+    
+}
+
+.r1 td{
+
+  background-color: #354b49;  
+  color: #ea967c;
+  
+
+}
+
+.r2{
+
+border-top-left-radius: 30px;
+
+}
+
+.r3{
+
+  border-top-right-radius: 30px;
+
+}
+
+.r4{
+
+    background-color: #566b30;
+    color: #ea967c;
+    font-weight: normal;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+}
+
+.r5{
+
+  background-color: #566b30;
+  color: #ea967c;
+  font-weight: normal;
+  border-bottom-left-radius: 45px;
+  border-bottom-right-radius: 45px;
+  
+}
+
+.r6{
+
+  background-color: #566b30;
+  color: #ea967c;
+  font-weight: normal;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+
+}
+
+.r7{
+
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+
+}
+
+.r8{
+
+  color: #0d6204;
+
+}
+
+.r9{
+
+  color: #0d6204;
+
+}
+
+.r10{
+
+color: #0d6204;
+
+}
+
+.r11{
+
+  color: #0d6204;
+
+}
+
+.r12{
+
+  border-bottom-right-radius: 30px;
+
+}
+
+.r13{
+
+  border-bottom-left-radius: 30px;
+
+}
+
+.r14{
+
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+
+}
+
+.r15{
+
+  background-color:#566b30 ;
+  color: #ea967c;
+  font-weight: normal;
+  border-bottom-left-radius: 40px;
+  border-top-right-radius: 40px;
+
+}
+
+.r16{
+
+  background-color:#566b30 ;
+  color: #ea967c;
+  font-weight: normal;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 30px;
+
+}
+
+
+td:hover{
+
+background-color: blue;
+color: white;
+transition: 0.7s;
+
+
+}
+
+p{
+
+  background-color:#ea967c ;
+  font-size: 50px;
+  color: #2e4a4f;
+  font-weight: bold;
+  padding: 10px;
+  width: 46%;
+  margin: auto;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: 5px 2px 20px 3px #708351;
+  
+  
+
+
+}
+
+table{
+
+  margin: auto;
+
+}
+
+.r1{
+
+  box-shadow: 5px 2px 20px 3px #e8a18a;
+
+
+}
+
+.b1{
+
+  box-shadow: 5px 2px 20px 3px #657944;
+
+
+}
+
+.b2{
+
+  box-shadow: 5px 2px 20px 3px #657944;
+
+
+}
+
+.b3{
+
+  box-shadow: 5px 2px 20px 3px #657944;
+
+
+}
+
+.b4{
+
+  box-shadow: 5px 2px 20px 3px #657944;
+
+
+}
+
+.b5{
+
+  box-shadow: 5px 2px 20px 3px #eaa089;
+
+
+}
+
+
